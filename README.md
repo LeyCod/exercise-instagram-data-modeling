@@ -8,11 +8,7 @@ Update the `src/models.py` file with the code needed to emulate the Instagram da
 
 ![Starwars Diagram](https://github.com/breatheco-de/exercise-starwars-data-modeling/blob/master/assets/example.png?raw=true)
 [Click to open diagram](https://app.quickdatabasediagrams.com/#/d/LxNXQZ)
-
-- must have a table `User` that will represent your blog users.
-- Your blog users will be able to login and save their favorite planets and characters.
-- The database should store the user favorites.
-- The database should store characters and planets.
+.
 - Add at least 4 models with all of its properties.
 - Generate the `diagram.png` file at the end by running `$ python3 models.py` on the console.
 
